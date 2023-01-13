@@ -4,6 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
+
     <div className="container">
       <Head>
         <title>Quark 2.0</title>
@@ -16,7 +17,7 @@ export default function Home() {
           Our website is being rebuildt<code>until then check our QuarkToken.io</code>
         </p>
       </main>
-      
+
 
       <Footer />
     </div>
