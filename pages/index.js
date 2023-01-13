@@ -11,11 +11,12 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my QUARk" />
+        <Header title="Welcome to my QUARK 2.0" />
         <p className="description">
           Our website is being rebuildt<code>until then check our QuarkToken.io</code>
         </p>
       </main>
+      
 
       <Footer />
     </div>
