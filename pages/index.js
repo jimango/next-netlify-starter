@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to my QUARk" />
         <p className="description">
           Our website is being rebuildt<code>until then check our QuarkToken.io</code>
         </p>
